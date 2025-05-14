@@ -1,6 +1,6 @@
 # Pulsa PPOB Cepat & Murah
 
-![Pulsa PPOB](https://play-lh.googleusercontent.com/5Q1xVdhrANaQ-RI9TG10vFzOybGMbSD-rReVzhSpRvqAfpzAW7uq-FKxtcZ0DkE3QXw=w240-h480-rw)
+[![Pulsa PPOB](https://ppob.miftahulhuda.net/wp-content/uploads/2024/09/cropped-cropped-pulsa-ppob.png)](https://ppob.miftahulhuda.net)
 
 **Pulsa PPOB Cepat & Murah** adalah solusi digital modern untuk kebutuhan pengisian pulsa, paket data, token listrik, pembayaran tagihan, Topup Games, dan transaksi PPOB lainnya dengan harga bersaing dan proses yang cepat.
 
